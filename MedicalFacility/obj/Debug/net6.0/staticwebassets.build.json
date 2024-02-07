@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OXsPHMDc3MUsYnNU6bNmTZRxwvA2xszYgixLuaSbwQg=",
+  "Source": "MedicalFacility",
+  "BasePath": "_content/MedicalFacility",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
